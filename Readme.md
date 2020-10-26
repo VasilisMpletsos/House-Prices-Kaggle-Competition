@@ -11,4 +11,7 @@ This competition uses the **Ames Housing dataset** compiled by Dean De Cock for 
 
 ## Scores:
 
-1. 0.1548
+1. **0,13054**
+2. 0,1548
+3. 0,15490
+4. 0,15518
