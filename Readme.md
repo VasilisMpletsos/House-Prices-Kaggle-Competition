@@ -7,4 +7,8 @@ This competition uses the **Ames Housing dataset** compiled by Dean De Cock for 
 - [x] Explore Dataset
 - [x] Fill na and convert Categorical
 - [x] Find Correlations and use only good columns
-- [ ] Run dataset on colab with better algorithms than those provided on Scikit-Learn
+- [ ] Train on better algorithms
+
+## Scores:
+
+1. 0.1548
