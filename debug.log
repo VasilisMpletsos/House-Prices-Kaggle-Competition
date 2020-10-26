@@ -2,3 +2,4 @@
 [1024/024211.515:ERROR:directory_reader_win.cc(43)] FindFirstFile: Το σύστημα δεν είναι σε θέση να εντοπίσει την καθορισμένη διαδρομή δίσκου. (0x3)
 [1026/170044.297:ERROR:directory_reader_win.cc(43)] FindFirstFile: Το σύστημα δεν είναι σε θέση να εντοπίσει την καθορισμένη διαδρομή δίσκου. (0x3)
 [1026/173318.227:ERROR:process_info.cc(359)] UncheckedAllocate
+[1026/204030.567:ERROR:directory_reader_win.cc(43)] FindFirstFile: Το σύστημα δεν είναι σε θέση να εντοπίσει την καθορισμένη διαδρομή δίσκου. (0x3)
