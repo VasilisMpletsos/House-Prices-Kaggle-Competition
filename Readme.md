@@ -11,13 +11,16 @@ Submissions are evaluated on Root-Mean-Squared-Error (RMSE) between the logarith
 - [x] Explore Dataset
 - [x] Fill na and convert Categorical
 - [x] Find Correlations and use only good columns
-- [ ] Remove outliers
+- [ ] Scale data with RobustScaler
+- [ ] Make different combinations
+- [ ] See gains on more epochs
 
 ## Scores:
 
-1. **0,12981**
-2. 0,13008
-3. 0,13054
-4. 0,1548
-5. 0,15490
-6. 0,15518
+1. **0,12297**
+2. 0,12981
+3. 0,13008
+4. 0,13054
+5. 0,1548
+6. 0,15490
+7. 0,15518
